@@ -1,0 +1,23 @@
+.header {
+   
+    justify-content: space-between;
+    
+}
+
+.origami{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.gridImg {
+    border : 2px solid black;
+    border-radius :50px;
+
+}
+.origami {
+    border-radius: 20px;
+    background-color: cornsilk;
+
+    width:310px;
+    font-family: fantasy;
+}
